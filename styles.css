@@ -90,3 +90,22 @@ button {
 .images-flex-container div {
   display: flex;
 }
+
+/* The section below contained styling for the third section of the landing page */
+
+.quote {
+  text-align: center;
+  font-size: 36px;
+  font-style: italic;
+}
+
+.quote-credit {
+  padding-inline-start: 1050px;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.third-section {
+  background-color: #E5E7EB;
+  padding: 20px;
+}
